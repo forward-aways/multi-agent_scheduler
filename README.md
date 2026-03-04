@@ -1,6 +1,9 @@
-# 多智能体任务调度系统 (Multi-Agent Task Scheduling System)
+# 基于深度强化学习的多智能体协作任务调度系统
+# Multi-Agent Collaborative Task Scheduling System Based on Deep Reinforcement Learning
 
 基于深度强化学习的多智能体协作任务调度系统，支持服务器资源调度、无人机协同任务和物流调度三大应用场景。
+
+A multi-agent collaborative task scheduling system based on deep reinforcement learning, supporting three major application scenarios: server resource scheduling, UAV collaborative tasks, and logistics scheduling.
 
 ## 📋 目录
 
