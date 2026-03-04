@@ -1,0 +1,34 @@
+{
+  "name": "test_evaluation",
+  "config": {
+    "name": "test_evaluation",
+    "environment": "server_environment",
+    "strategy": "random_strategy",
+    "episodes": 3,
+    "max_steps": 20,
+    "env_config": {
+      "num_servers": 3,
+      "num_tasks": 5,
+      "max_steps": 20
+    },
+    "strategy_config": {
+      "num_actions": 5
+    },
+    "export_format": "json",
+    "export_path": "evaluations/test_run"
+  },
+  "metrics": {
+    "task_completion_rate": 0.0,
+    "avg_completion_time": 0.0,
+    "total_tasks": 0,
+    "completed_tasks": 0,
+    "failed_tasks": 0,
+    "avg_delay": 0.0,
+    "max_delay": 0.0,
+    "min_delay": 0.0,
+    "delay_std": 0.0,
+    "load_balance_score": 0.0,
+    "agent_utilization": null,
+    "avg_resource_usage": 0.0,
+    "resource_efficiency": 0.0,
+    "total_reward": 

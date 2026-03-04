@@ -1,0 +1,375 @@
+2026-02-08 16:16:39,159 [ERROR] api:100: 任务分配过程中出现错误: 策略 random 未注册
+2026-02-08 16:16:39,162 [ERROR] api:171: 评估策略 random 在场景 server_test 时出错: 策略 random 未注册
+2026-02-08 16:16:39,163 [ERROR] api:171: 评估策略 round_robin 在场景 server_test 时出错: 策略 round_robin 未注册
+2026-02-08 16:16:39,164 [ERROR] api:171: 评估策略 random 在场景 small_server 时出错: 策略 random 未注册
+2026-02-08 16:16:39,166 [ERROR] api:171: 评估策略 round_robin 在场景 small_server 时出错: 策略 round_robin 未注册
+2026-02-08 16:17:21,425 [ERROR] api:100: 任务分配过程中出现错误: 策略 random 未注册
+2026-02-08 16:17:21,427 [ERROR] api:171: 评估策略 random 在场景 server_test 时出错: 策略 random 未注册
+2026-02-08 16:17:21,432 [ERROR] api:171: 评估策略 round_robin 在场景 server_test 时出错: 策略 round_robin 未注册
+2026-02-08 16:17:21,433 [ERROR] api:171: 评估策略 random 在场景 small_server 时出错: 策略 random 未注册
+2026-02-08 16:17:21,433 [ERROR] api:171: 评估策略 round_robin 在场景 small_server 时出错: 策略 round_robin 未注册
+2026-02-08 16:17:53,810 [ERROR] api:100: 任务分配过程中出现错误: 策略 random 未注册
+2026-02-08 16:17:53,810 [ERROR] api:171: 评估策略 random 在场景 server_test 时出错: 策略 random 未注册
+2026-02-08 16:17:53,811 [ERROR] api:171: 评估策略 round_robin 在场景 server_test 时出错: 策略 round_robin 未注册
+2026-02-08 16:17:53,813 [ERROR] api:171: 评估策略 random 在场景 small_server 时出错: 策略 random 未注册
+2026-02-08 16:17:53,815 [ERROR] api:171: 评估策略 round_robin 在场景 small_server 时出错: 策略 round_robin 未注册
+2026-02-08 16:18:50,086 [ERROR] api:100: 任务分配过程中出现错误: 策略 random 未注册
+2026-02-08 16:19:29,052 [ERROR] test:199: 错误测试消息
+2026-02-08 16:23:40,368 [ERROR] test:199: 错误测试消息
+2026-02-08 16:34:30,312 [ERROR] test:199: 错误测试消息
+2026-02-08 17:18:39,760 [ERROR] api:59: 任务列表或资源列表不能为空
+2026-02-08 17:18:39,762 [ERROR] api:99: 任务分配过程中出现错误: 任务列表或资源列表不能为空
+2026-02-08 17:19:24,489 [ERROR] api:59: 任务列表或资源列表不能为空
+2026-02-08 17:19:24,489 [ERROR] api:99: 任务分配过程中出现错误: 任务列表或资源列表不能为空
+2026-02-08 17:19:24,489 [ERROR] api:59: 任务列表或资源列表不能为空
+2026-02-08 17:19:24,490 [ERROR] api:99: 任务分配过程中出现错误: 任务列表或资源列表不能为空
+2026-02-08 17:20:35,283 [ERROR] api:59: 任务列表或资源列表不能为空
+2026-02-08 17:20:35,283 [ERROR] api:99: 任务分配过程中出现错误: 任务列表或资源列表不能为空
+2026-02-08 17:21:51,390 [ERROR] api:59: 任务列表或资源列表不能为空
+2026-02-08 17:21:51,391 [ERROR] api:99: 任务分配过程中出现错误: 任务列表或资源列表不能为空
+2026-02-08 17:22:10,777 [ERROR] api:59: 任务列表或资源列表不能为空
+2026-02-08 17:22:10,777 [ERROR] api:99: 任务分配过程中出现错误: 任务列表或资源列表不能为空
+2026-02-08 22:06:35,712 [ERROR] gui:89: 用户界面初始化失败: name 'QHBoxLayout' is not defined
+2026-02-08 22:06:35,713 [ERROR] gui:49: 主窗口初始化失败: name 'QHBoxLayout' is not defined
+2026-02-08 22:09:03,276 [ERROR] gui:89: 用户界面初始化失败: name 'Qt' is not defined
+2026-02-08 22:09:03,277 [ERROR] gui:49: 主窗口初始化失败: name 'Qt' is not defined
+2026-02-08 22:20:57,342 [ERROR] gui:335: 停止仿真失败: 'MainWindow' object has no attribute 'refresh_btn'
+2026-02-08 22:27:02,258 [ERROR] gui:89: 用户界面初始化失败: name 'task_count_label' is not defined
+2026-02-08 22:27:02,259 [ERROR] gui:49: 主窗口初始化失败: name 'task_count_label' is not defined
+2026-02-08 22:27:31,466 [ERROR] gui:89: 用户界面初始化失败: name 'task_count_label' is not defined
+2026-02-08 22:27:31,466 [ERROR] gui:49: 主窗口初始化失败: name 'task_count_label' is not defined
+2026-02-08 22:28:53,099 [ERROR] gui:350: 停止仿真失败: 'MainWindow' object has no attribute 'refresh_btn'
+2026-02-08 22:53:50,322 [ERROR] gui:89: 用户界面初始化失败: arguments did not match any overloaded call:
+  addLayout(self, a0: Optional[QLayout], row: int, column: int, alignment: Qt.AlignmentFlag = Qt.Alignment()): not enough arguments
+  addLayout(self, a0: Optional[QLayout], row: int, column: int, rowSpan: int, columnSpan: int, alignment: Qt.AlignmentFlag = Qt.Alignment()): not enough arguments
+2026-02-08 22:53:50,323 [ERROR] gui:49: 主窗口初始化失败: arguments did not match any overloaded call:
+  addLayout(self, a0: Optional[QLayout], row: int, column: int, alignment: Qt.AlignmentFlag = Qt.Alignment()): not enough arguments
+  addLayout(self, a0: Optional[QLayout], row: int, column: int, rowSpan: int, columnSpan: int, alignment: Qt.AlignmentFlag = Qt.Alignment()): not enough arguments
+2026-02-09 20:20:26,411 [ERROR] gui:425: 切换场景失败 uav: 'QSizePolicy' object has no attribute 'Expanding'
+2026-02-09 20:23:36,779 [ERROR] gui:426: 切换场景失败 uav: 'UAVSceneWidget' object has no attribute 'update_formation'
+2026-02-09 20:29:04,625 [ERROR] gui:426: 切换场景失败 uav: name 'QSizePolicy' is not defined
+2026-02-09 20:37:49,697 [ERROR] gui:89: 用户界面初始化失败: name 'QSizePolicy' is not defined
+2026-02-09 20:37:49,697 [ERROR] gui:49: 主窗口初始化失败: name 'QSizePolicy' is not defined
+2026-02-09 20:57:24,650 [ERROR] gui:114: 用户界面初始化失败: name 'QSizePolicy' is not defined
+2026-02-09 20:57:24,651 [ERROR] gui:64: 主窗口初始化失败: name 'QSizePolicy' is not defined
+2026-02-09 21:51:19,748 [ERROR] __main__:26: 测试错误日志
+2026-02-09 21:51:24,473 [ERROR] scheduler:141: 策略 'invalid_strategy' 不在可用策略列表中
+2026-02-09 21:51:24,473 [ERROR] scheduler:153: 设置调度策略失败: 策略 'invalid_strategy' 不可用，可用策略: ['ppo', 'dqn', 'round_robin', 'random']
+Traceback (most recent call last):
+  File "D:\graduation_project\multi_agent_scheduler\core\scheduler.py", line 142, in set_strategy
+    raise ValueError(f"策略 '{strategy_name}' 不可用，可用策略: {available_strategies}")
+ValueError: 策略 'invalid_strategy' 不可用，可用策略: ['ppo', 'dqn', 'round_robin', 'random']
+2026-02-09 21:51:24,481 [ERROR] api:96: 任务列表或资源列表不能为空
+2026-02-09 21:51:24,482 [ERROR] api:160: 任务分配过程中出现错误: 任务列表或资源列表不能为空
+Traceback (most recent call last):
+  File "D:\graduation_project\multi_agent_scheduler\api\scheduler_api.py", line 97, in assign
+    raise ValueError(error_msg)
+ValueError: 任务列表或资源列表不能为空
+2026-02-09 21:51:24,484 [ERROR] api:96: 任务列表或资源列表不能为空
+2026-02-09 21:51:24,484 [ERROR] api:160: 任务分配过程中出现错误: 任务列表或资源列表不能为空
+Traceback (most recent call last):
+  File "D:\graduation_project\multi_agent_scheduler\api\scheduler_api.py", line 97, in assign
+    raise ValueError(error_msg)
+ValueError: 任务列表或资源列表不能为空
+2026-02-09 21:52:08,983 [ERROR] __main__:26: 测试错误日志
+2026-02-09 21:52:12,381 [ERROR] scheduler:141: 策略 'invalid_strategy' 不在可用策略列表中
+2026-02-09 21:52:12,381 [ERROR] scheduler:153: 设置调度策略失败: 策略 'invalid_strategy' 不可用，可用策略: ['ppo', 'dqn', 'round_robin', 'random']
+Traceback (most recent call last):
+  File "D:\graduation_project\multi_agent_scheduler\core\scheduler.py", line 142, in set_strategy
+    raise ValueError(f"策略 '{strategy_name}' 不可用，可用策略: {available_strategies}")
+ValueError: 策略 'invalid_strategy' 不可用，可用策略: ['ppo', 'dqn', 'round_robin', 'random']
+2026-02-09 21:52:12,387 [ERROR] api:96: 任务列表或资源列表不能为空
+2026-02-09 21:52:12,387 [ERROR] api:160: 任务分配过程中出现错误: 任务列表或资源列表不能为空
+Traceback (most recent call last):
+  File "D:\graduation_project\multi_agent_scheduler\api\scheduler_api.py", line 97, in assign
+    raise ValueError(error_msg)
+ValueError: 任务列表或资源列表不能为空
+2026-02-09 21:52:12,390 [ERROR] api:96: 任务列表或资源列表不能为空
+2026-02-09 21:52:12,390 [ERROR] api:160: 任务分配过程中出现错误: 任务列表或资源列表不能为空
+Traceback (most recent call last):
+  File "D:\graduation_project\multi_agent_scheduler\api\scheduler_api.py", line 97, in assign
+    raise ValueError(error_msg)
+ValueError: 任务列表或资源列表不能为空
+2026-02-10 00:05:53,054 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:05:53,579 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:05:54,072 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:05:54,572 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:05:55,070 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:05:55,577 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:05:56,075 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:05:56,578 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:05:57,079 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:05:57,577 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:05:58,071 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:05:58,571 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:05:59,076 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:05:59,571 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:00,070 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:00,574 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:01,072 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:01,572 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:02,073 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:02,571 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:03,075 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:03,577 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:04,078 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:04,580 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:05,072 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:05,572 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:06,079 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:06,575 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:07,072 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:07,577 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:08,070 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:08,571 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:08,638 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:06:09,368 [ERROR] strategy:108: PPO策略选择动作失败: Error: Unexpected observation shape (104,) for Box environment, please use (14,) or (n_env, 14) for the observation shape.
+2026-02-10 00:11:55,985 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:00,168 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:00,668 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:01,175 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:01,670 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:02,175 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:02,679 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:03,170 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:03,670 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:04,175 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:04,671 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:05,169 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:05,675 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:06,175 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:06,665 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:07,166 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:07,671 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:08,176 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:08,667 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:09,177 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:09,668 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:10,171 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:10,673 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:11,173 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:11,674 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:12,171 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:12,670 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:13,173 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:13,673 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:14,174 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:14,669 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:15,175 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:15,675 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:16,172 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:16,674 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:17,167 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:17,671 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:18,171 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:18,672 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:19,270 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:36,063 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:39,807 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:40,310 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:40,896 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:41,307 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:41,812 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:42,308 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:42,806 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:43,314 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:43,806 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:12:44,313 [ERROR] gui:360: 执行真实调度时出错: invalid syntax (server_env.py, line 140)
+2026-02-10 00:16:46,373 [ERROR] gui:360: 执行真实调度时出错: set_strategy() got an unexpected keyword argument 'env'
+2026-02-10 00:16:46,757 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:47,258 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:47,761 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:48,261 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:48,764 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:49,257 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:49,759 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:50,264 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:50,760 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:51,262 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:51,758 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:52,268 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:52,758 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:53,262 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:53,768 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:54,259 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:54,758 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:55,260 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:55,766 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:56,260 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:56,762 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:57,258 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:57,759 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:58,261 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:58,763 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:59,268 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:16:59,763 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:00,257 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:00,767 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:01,256 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:01,756 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:02,263 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:02,758 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:03,256 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:03,757 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:04,265 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:04,768 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:05,259 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:05,766 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:06,268 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:06,760 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:07,260 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:07,767 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:08,263 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:08,763 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:09,259 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:09,767 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:10,261 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:10,757 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:11,265 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:11,756 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:12,258 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:12,758 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:13,266 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:13,760 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:14,262 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:14,765 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:15,265 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:15,758 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:16,257 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:16,759 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:17,259 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:17,757 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:18,263 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:18,763 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:19,260 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:19,762 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:20,263 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:17:20,763 [ERROR] gui:360: 执行真实调度时出错: 'NoneType' object has no attribute 'select_action'
+2026-02-10 00:36:03,832 [ERROR] gui:410: 执行真实调度时出错: set_strategy() got an unexpected keyword argument 'env'
+2026-02-10 00:36:03,907 [ERROR] gui:410: 执行真实调度时出错: set_strategy() got an unexpected keyword argument 'env'
+2026-02-10 00:36:04,401 [ERROR] gui:410: 执行真实调度时出错: set_strategy() got an unexpected keyword argument 'env'
+2026-02-10 00:36:04,900 [ERROR] gui:410: 执行真实调度时出错: set_strategy() got an unexpected keyword argument 'env'
+2026-02-10 00:36:05,463 [ERROR] gui:410: 执行真实调度时出错: set_strategy() got an unexpected keyword argument 'env'
+2026-02-10 00:36:05,906 [ERROR] gui:410: 执行真实调度时出错: set_strategy() got an unexpected keyword argument 'env'
+2026-02-10 00:36:06,399 [ERROR] gui:410: 执行真实调度时出错: set_strategy() got an unexpected keyword argument 'env'
+2026-02-10 00:36:06,899 [ERROR] gui:410: 执行真实调度时出错: set_strategy() got an unexpected keyword argument 'env'
+2026-02-10 00:36:07,407 [ERROR] gui:410: 执行真实调度时出错: set_strategy() got an unexpected keyword argument 'env'
+2026-02-10 00:36:07,901 [ERROR] gui:410: 执行真实调度时出错: set_strategy() got an unexpected keyword argument 'env'
+2026-02-10 12:55:13,820 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:13,824 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:30,758 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:30,758 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:31,242 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:31,244 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:31,748 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:31,748 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:32,251 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:32,251 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:32,748 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:32,748 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:33,244 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:33,244 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:33,744 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:33,744 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:34,244 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:34,244 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:34,746 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:34,746 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:35,246 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:35,248 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:35,751 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:35,753 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:36,250 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:36,252 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:36,746 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:36,746 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:37,247 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:37,248 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:37,743 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:37,744 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:38,245 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:38,245 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:38,747 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:38,747 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:39,243 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:39,243 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:39,751 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:39,751 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:40,246 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:40,247 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:40,744 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:40,744 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:41,243 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:41,243 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:41,748 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:41,748 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:42,246 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:42,247 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:42,750 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:42,751 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:43,251 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:43,253 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:43,743 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:43,743 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:44,250 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:44,252 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:44,748 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:44,750 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:45,243 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:45,243 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:45,745 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:45,745 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:46,242 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:46,242 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:46,752 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:46,754 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:47,318 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:47,318 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:47,748 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:47,748 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:48,247 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:48,247 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:48,746 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:48,746 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:49,244 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:49,245 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:49,751 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:49,751 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:50,270 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 12:55:50,270 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:42,098 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:42,098 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:42,617 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:42,617 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:43,116 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:43,118 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:43,625 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:43,626 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:44,127 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:44,127 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:44,620 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:44,621 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:45,125 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:45,125 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:45,621 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:45,623 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:46,120 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:46,122 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:46,753 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:11:46,753 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:27,370 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:27,370 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:27,447 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:27,447 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:27,950 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:27,950 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:28,448 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:28,449 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:28,952 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:28,952 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:29,447 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:29,447 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:29,946 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:29,946 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:30,454 [ERROR] strategy:116: PPO模型未初始化，无法进行动作选择
+2026-02-10 13:25:30,454 [ERROR] strategy:143: PPO策略选择动作失败: PPO模型未初始化，无法进行动作选择

@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>多智能体任务调度系统 - API控制台</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+        
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-2px);
+        }
+        
+        .card h2 {
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 10px;
+        }
+        
+        .status-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+        
+        .status-item {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .status-item label {
+            display: block;
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 5px;
+        }
+        
+        .status-item value {
+            display: block;
+            color: #333;
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+        
+        .btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: all 0.3s ease;
+            margin: 5px;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .btn-secondary {
+            background: #6c757d;
+        }
+        
+        .btn-success {
+            background: #28a745;
+        }
+        
+        .endpoint-list {
+            list-style: none;
+        }
+        
+        .endpoint-item {
+            background: #f8f9fa;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.3s ease;
+        }
+        
+        .endpoint-item:hover {
+            background: #e9ecef;
+        }
+        
+        .endpoint-method {
+            background: #667eea;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 0.85em;
+            font-weight: bold;
+        }
+        
+        .endpoint-path {
+            color: #333;
+            font-family: 'Courier New', monospace;
+            font-size: 0.95em;
+        }
+        
+        .response-area {
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 20px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+            overflow-x: auto;
+            margin-top: 15px;
+            min-height: 200px;
+            white-space: pre-wrap;
+        }
+        
+        .plugin-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+        
+        .plugin-card {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            border: 2px solid transparent;
+            transition: all 0.3s ease;
+        }
+        
+        .plugin-card:hover {
+            border-color: #667eea;
+        }
+        
+        .plugin-card h4 {
+            color: #333;
+            margin-bottom: 8px;
+        }
+        
+        .plugin-card p {
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 10px;
+        }
+        
+        .plugin-status {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            font-weight: bold;
+        }
+        
+        .plugin-status.active {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .plugin-status.inactive {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        
+        .loading {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .footer {
+            text-align: center;
+            color: white;
+            margin-top: 30px;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🤖 多智能体任务调度系统</h1>
+            <p>API控制台 v1.0.0</p>
+        </header>
+
+        <!-- 系统状态 -->
+        <div class="card">
+            <h2>📊 系统状态</h2>
+            <div style="margin-bottom: 15px;">
+                <button class="btn" onclick="refreshStatus()">🔄 刷新状态</button>
+                <button class="btn btn-secondary" onclick="loadScenario()">📂 加载场景</button>
+                <button class="btn btn-success" onclick="allocateTask()">📋 分配任务</button>
+            </div>
+            <div id="statusContent">
+                <div class="loading"></div> 正在加载状态...
+            </div>
+        </div>
+
+        <!-- API端点 -->
+        <div class="card">
+            <h2>🔌 API端点</h2>
+            <ul class="endpoint-list">
+                <li class="endpoint-item">
+                    <span>
+                        <span class="endpoint-method">GET</span>
+                        <span class="endpoint-path">/api/status</span>
+                    </span>
+                    <button class="btn" onclick="testEndpoint('/api/status')">测试</button>
+                </li>
+                <li class="endpoint-item">
+                    <span>
+                        <span class="endpoint-method">GET</span>
+                        <span class="endpoint-path">/api/plugins</span>
+                    </span>
+                    <button class="btn" onclick="testEndpoint('/api/plugins')">测试</button>
+                </li>
+                <li class="endpoint-item">
+                    <span>
+                        <span class="endpoint-method">GET</span>
+                        <span class="endpoint-path">/api/scenarios</span>
+                    </span>
+                    <button class="btn" onclick="testEndpoint('/api/scenarios')">测试</button>
+                </li>
+                <li class="endpoint-item">
+                    <span>
+                        <span class="endpoint-method">GET</span>
+                        <span class="endpoint-path">/api/strategy/current</span>
+                    </span>
+                    <button class="btn" onclick="testEndpoint('/api/strategy/current')">测试</button>
+                </li>
+                <li class="endpoint-item">
+                    <span>
+                        <span class="endpoint-method">POST</span>
+                        <span class="endpoint-path">/api/task/allocate</span>
+                    </span>
+                    <button class="btn" onclick="testAllocateTask()">测试</button>
+                </li>
+            </ul>
+        </div>
+
+        <!-- 插件列表 -->
+        <div class="card">
+            <h2>🔧 已加载插件</h2>
+            <button class="btn" onclick="refreshPlugins()" style="margin-bottom: 15px;">🔄 刷新插件</button>
+            <div id="pluginsContent">
+                <div class="loading"></div> 正在加载插件...
+            </div>
+        </div>
+
+        <!-- 响应区域 -->
+        <div class="card">
+            <h2>📄 API响应</h2>
+            <div class="response-area" id="responseArea">点击上方"测试"按钮查看API响应...</div>
+        </div>
+
+        <div class="footer">
+            <p>多智能体任务调度系统 &copy; 2026</p>
+        </div>
+    </div>
+
+    <script>
+        const API_BASE = '';
+        
+        // 页面加载时自动刷新状态
+        window.onload = function() {
+            refreshStatus();
+            refreshPlugins();
+        };
+        
+        // 刷新系统状态
+        async function refreshStatus() {
+            const content = document.getElementById('statusContent');
+            content.innerHTML = '<div class="loading"></div> 正在加载状态...';
+            
+            try {
+                const response = await fetch(API_BASE + '/api/status');
+                const data = await response.json();
+                
+                if (data.success) {
+                    const status = data.status;
+                    content.innerHTML = `
+                        <div class="status-grid">
+                            <div class="status-item">
+                                <label>运行状态</label>
+                                <value style="color: ${status.is_running ? '#28a745' : '#dc3545'}">${status.is_running ? '运行中' : '已停止'}</value>
+                            </div>
+                            <div class="status-item">
+                                <label>当前环境</label>
+                                <value>${status.current_environment || '未加载'}</value>
+                            </div>
+                            <div class="status-item">
+                                <label>当前策略</label>
+                                <value>${status.current_strategy || '未加载'}</value>
+                            </div>
+                            <div class="status-item">
+                                <label>已加载插件</label>
+                                <value>${status.loaded_plugins} 个</value>
+                            </div>
+                            <div class="status-item">
+                                <label>活跃插件</label>
+                                <value>${status.active_plugins} 个</value>
+                            </div>
+                            <div class="status-item">
+                                <label>API请求数</label>
+                                <value>${status.api.request_count}</value>
+                            </div>
+                        </div>
+                    `;
+                } else {
+                    content.innerHTML = `<p style="color: #dc3545;">获取状态失败: ${data.message}</p>`;
+                }
+            } catch (error) {
+                content.innerHTML = `<p style="color: #dc3545;">请求错误: ${error.message}</p>`;
+            }
+        }
+        
+        // 刷新插件列表
+        async function refreshPlugins() {
+            const content = document.getElementById('pluginsContent');
+            content.innerHTML = '<div class="loading"></div> 正在加载插件...';
+            
+            try {
+                const response = await fetch(API_BASE + '/api/plugins');
+                const data = await response.json();
+                
+                if (data.success) {
+                    const plugins = data.plugins;
+                    content.innerHTML = '<div class="plugin-grid">' + 
+                        plugins.map(p => `
+                            <div class="plugin-card">
+                                <h4>${p.name}</h4>
+                                <p>版本: ${p.version} | 类型: ${p.category}</p>
+                                <span class="plugin-status ${p.is_active ? 'active' : 'inactive'}">
+                                    ${p.is_active ? '● 已激活' : '○ 未激活'}
+                                </span>
+                            </div>
+                        `).join('') + 
+                    '</div>';
+                } else {
+                    content.innerHTML = `<p style="color: #dc3545;">获取插件失败: ${data.message}</p>`;
+                }
+            } catch (error) {
+                content.innerHTML = `<p style="color: #dc3545;">请求错误: ${error.message}</p>`;
+            }
+        }
+        
+        // 测试API端点
+        async function testEndpoint(endpoint) {
+            const responseArea = document.getElementById('responseArea');
+            responseArea.textContent = '正在请求 ' + endpoint + '...';
+            
+            try {
+                const response = await fetch(API_BASE + endpoint);
+                const data = await response.json();
+                responseArea.textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                responseArea.textContent = '错误: ' + error.message;
+            }
+        }
+        
+        // 测试任务分配
+        async function testAllocateTask() {
+            const responseArea = document.getElementById('responseArea');
+            responseArea.textContent = '正在测试任务分配...';
+            
+            try {
+                const response = await fetch(API_BASE + '/api/task/allocate', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        task_info: {
+                            task_id: 'test_task_001',
+                            task_type: 'computation',
+                            priority: 5
+                        },
+                        agent_id: 'agent_0'
+                    })
+                });
+                const data = await response.json();
+                responseArea.textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                responseArea.textContent = '错误: ' + error.message;
+            }
+        }
+        
+        // 加载场景
+        async function loadScenario() {
+            const responseArea = document.getElementById('responseArea');
+            responseArea.textContent = '正在加载场景...';
+            
+            try {
+                const response = await fetch(API_BASE + '/api/scenario/load', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        environment: 'server_environment',
+                        strategy: 'random_strategy'
+                    })
+                });
+                const data = await response.json();
+                responseArea.textContent = JSON.stringify(data, null, 2);
+                refreshStatus();
+            } catch (error) {
+                responseArea.textContent = '错误: ' + error.message;
+            }
+        }
+        
+        // 分配任务
+        async function allocateTask() {
+            testAllocateTask();
+        }
+    </script>
+</body>
+</html>

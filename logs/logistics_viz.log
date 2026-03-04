@@ -1,0 +1,1452 @@
+2026-02-26 19:22:31 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 19:22:31 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:22:31 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026A34AF7310>
+2026-02-26 19:22:31 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:22:31 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 19:22:31 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:22:31 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026A34AF7310>
+2026-02-26 19:22:31 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:22:31 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 19:22:31 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:22:31 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026A34AF7310>
+2026-02-26 19:22:31 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:22:31 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 19:22:31 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:22:31 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026A34AF7310>
+2026-02-26 19:22:31 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:22:31 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 19:22:31 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:22:31 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026A34AF7310>
+2026-02-26 19:22:31 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:24:28 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 19:24:28 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:24:28 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000285C5678310>
+2026-02-26 19:24:28 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:24:28 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 19:24:28 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:24:28 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000285C5678310>
+2026-02-26 19:24:28 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:24:28 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 19:24:28 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:24:28 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000285C5678310>
+2026-02-26 19:24:28 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:24:28 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 19:24:28 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:24:28 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000285C5678310>
+2026-02-26 19:24:28 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:24:28 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 19:24:28 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:24:28 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000285C5678310>
+2026-02-26 19:24:28 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:29:26 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 19:29:26 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:29:26 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002050D776310>
+2026-02-26 19:29:26 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:29:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 19:29:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:29:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002050D776310>
+2026-02-26 19:29:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:29:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 19:29:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:29:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002050D776310>
+2026-02-26 19:29:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:29:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 19:29:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:29:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002050D776310>
+2026-02-26 19:29:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:29:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 19:29:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:29:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002050D776310>
+2026-02-26 19:29:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:29:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 19:29:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:29:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002050D776310>
+2026-02-26 19:29:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:29:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 19:29:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:29:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002050D776310>
+2026-02-26 19:29:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:40:31 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 19:40:31 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:40:31 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000226E1E87310>
+2026-02-26 19:40:31 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:40:31 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 19:40:31 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:40:31 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000226E1E87310>
+2026-02-26 19:40:31 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:40:31 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 19:40:31 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:40:31 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000226E1E87310>
+2026-02-26 19:40:31 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:40:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 19:40:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:40:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000226E1E87310>
+2026-02-26 19:40:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 19:40:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 19:40:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 19:40:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000226E1E87310>
+2026-02-26 19:40:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:24:59 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 20:24:59 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:24:59 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BC54277310>
+2026-02-26 20:24:59 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:24:59 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 20:24:59 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:24:59 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BC54277310>
+2026-02-26 20:24:59 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:25:00 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 20:25:00 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:25:00 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BC54277310>
+2026-02-26 20:25:00 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:25:00 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 20:25:00 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:25:00 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BC54277310>
+2026-02-26 20:25:00 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:25:00 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 20:25:00 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:25:00 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BC54277310>
+2026-02-26 20:25:00 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:25:00 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 20:25:00 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:25:00 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BC54277310>
+2026-02-26 20:25:00 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:25:00 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 20:25:00 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:25:00 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BC54277310>
+2026-02-26 20:25:00 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:34:43 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 20:34:43 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:34:43 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001DBA3E17310>
+2026-02-26 20:34:43 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:34:43 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 20:34:43 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:34:43 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001DBA3E17310>
+2026-02-26 20:34:43 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:34:44 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 20:34:44 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:34:44 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001DBA3E17310>
+2026-02-26 20:34:44 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:34:44 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 20:34:44 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:34:44 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001DBA3E17310>
+2026-02-26 20:34:44 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:34:44 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 20:34:44 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:34:44 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001DBA3E17310>
+2026-02-26 20:34:44 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:34:44 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 20:34:44 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:34:44 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001DBA3E17310>
+2026-02-26 20:34:44 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:34:45 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 20:34:45 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:34:45 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001DBA3E17310>
+2026-02-26 20:34:45 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:50:25 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 20:50:25 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:50:25 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021AE6A98310>
+2026-02-26 20:50:25 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:50:25 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 20:50:25 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:50:25 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021AE6A98310>
+2026-02-26 20:50:25 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:50:25 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 20:50:25 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:50:25 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021AE6A98310>
+2026-02-26 20:50:25 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:50:25 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 20:50:25 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:50:25 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021AE6A98310>
+2026-02-26 20:50:25 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:50:25 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 20:50:25 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:50:25 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021AE6A98310>
+2026-02-26 20:50:25 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:54:28 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 20:54:28 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:54:28 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000020658128310>
+2026-02-26 20:54:28 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:54:28 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 20:54:28 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:54:28 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000020658128310>
+2026-02-26 20:54:28 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:54:28 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 20:54:28 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:54:28 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000020658128310>
+2026-02-26 20:54:28 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:54:28 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 20:54:28 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:54:28 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000020658128310>
+2026-02-26 20:54:28 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:54:28 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 20:54:28 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:54:28 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000020658128310>
+2026-02-26 20:54:28 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:57:35 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 20:57:35 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:57:35 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000020C759E7310>
+2026-02-26 20:57:35 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:57:35 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 20:57:35 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:57:35 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000020C759E7310>
+2026-02-26 20:57:35 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:57:35 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 20:57:35 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:57:35 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000020C759E7310>
+2026-02-26 20:57:35 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:57:35 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 20:57:35 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:57:35 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000020C759E7310>
+2026-02-26 20:57:35 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 20:57:35 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 20:57:35 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 20:57:35 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000020C759E7310>
+2026-02-26 20:57:35 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:00:07 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 21:00:07 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:00:07 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002CDC2977310>
+2026-02-26 21:00:07 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:00:07 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 21:00:07 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:00:07 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002CDC2977310>
+2026-02-26 21:00:07 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:00:07 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:00:07 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:00:07 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002CDC2977310>
+2026-02-26 21:00:07 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:00:08 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 21:00:08 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:00:08 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002CDC2977310>
+2026-02-26 21:00:08 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:00:08 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:00:08 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:00:08 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002CDC2977310>
+2026-02-26 21:00:08 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:00:08 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 21:00:08 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:00:08 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002CDC2977310>
+2026-02-26 21:00:08 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:04:01 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:04:01 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:04:01 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026343BFD3A0>
+2026-02-26 21:04:01 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:04:01 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:04:01 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:04:01 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026343BFD3A0>
+2026-02-26 21:04:01 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:04:01 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:04:01 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:04:01 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026343BFD3A0>
+2026-02-26 21:04:01 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:06:12 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 21:06:12 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:06:12 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021230927310>
+2026-02-26 21:06:12 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:06:12 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:06:12 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:06:12 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021230927310>
+2026-02-26 21:06:12 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:06:12 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:06:12 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:06:12 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021230927310>
+2026-02-26 21:06:12 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:06:13 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 21:06:13 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:06:13 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021230927310>
+2026-02-26 21:06:13 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:07:22 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:07:22 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:07:22 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001DF4306F940>
+2026-02-26 21:07:22 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:07:23 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 21:07:23 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:07:23 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001DF4306F940>
+2026-02-26 21:07:23 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:07:23 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:07:23 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:07:23 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001DF4306F940>
+2026-02-26 21:07:23 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:07:23 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 21:07:23 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:07:23 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001DF4306F940>
+2026-02-26 21:07:23 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:08:19 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:08:19 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:08:19 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000142ED3FA9D0>
+2026-02-26 21:08:19 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:08:19 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:08:19 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:08:19 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000142ED3FA9D0>
+2026-02-26 21:08:19 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:08:19 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:08:19 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:08:19 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000142ED3FA9D0>
+2026-02-26 21:08:19 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:08:19 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 21:08:19 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:08:19 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000142ED3FA9D0>
+2026-02-26 21:08:19 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:08:20 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:08:20 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:08:20 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000142ED3FA9D0>
+2026-02-26 21:08:20 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:12:57 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:12:57 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:12:57 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001B08D84D9D0>
+2026-02-26 21:12:57 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:12:57 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 21:12:57 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:12:57 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001B08D84D9D0>
+2026-02-26 21:12:57 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:12:57 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:12:57 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:12:57 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001B08D84D9D0>
+2026-02-26 21:12:57 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:12:57 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:12:57 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:12:57 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001B08D84D9D0>
+2026-02-26 21:12:57 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:12:57 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:12:57 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:12:57 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001B08D84D9D0>
+2026-02-26 21:12:57 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:12:57 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:12:57 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:12:57 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001B08D84D9D0>
+2026-02-26 21:12:57 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:16:01 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:16:01 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:16:01 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001C083B819D0>
+2026-02-26 21:16:01 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:16:02 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:16:02 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:16:02 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001C083B819D0>
+2026-02-26 21:16:02 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:16:02 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:16:02 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:16:02 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001C083B819D0>
+2026-02-26 21:16:02 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:16:02 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:16:02 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:16:02 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001C083B819D0>
+2026-02-26 21:16:02 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:16:02 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 21:16:02 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:16:02 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001C083B819D0>
+2026-02-26 21:16:02 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:18:36 - logistics_viz - INFO - 准备发送订单到后端: {'type': '加急订单', 'priority': 5, 'quantity': 6, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:18:36 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:18:36 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002F0BAD9E940>
+2026-02-26 21:18:36 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:18:48 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 3, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:18:48 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:18:48 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002F0BAD9E940>
+2026-02-26 21:18:48 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:19:06 - logistics_viz - INFO - 准备发送订单到后端: {'type': '批量订单', 'priority': 3, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 21:19:06 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:19:06 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002F0BAD9E940>
+2026-02-26 21:19:06 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:19:12 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 1, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:19:12 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:19:12 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002F0BAD9E940>
+2026-02-26 21:19:12 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:19:14 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 1, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 21:19:14 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:19:14 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002F0BAD9E940>
+2026-02-26 21:19:14 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:20:38 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 21:20:38 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:20:38 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001A23456E940>
+2026-02-26 21:20:38 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:20:38 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:20:38 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:20:38 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001A23456E940>
+2026-02-26 21:20:38 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:20:38 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 21:20:38 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:20:38 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001A23456E940>
+2026-02-26 21:20:38 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:20:38 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:20:38 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:20:38 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001A23456E940>
+2026-02-26 21:20:38 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:20:38 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 21:20:38 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:20:38 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001A23456E940>
+2026-02-26 21:20:38 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:20:38 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:20:38 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:20:38 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001A23456E940>
+2026-02-26 21:20:38 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:20:38 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 21:20:38 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:20:38 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001A23456E940>
+2026-02-26 21:20:38 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:21:19 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:21:19 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:21:19 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002117BF088B0>
+2026-02-26 21:21:19 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:21:20 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:21:20 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:21:20 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002117BF088B0>
+2026-02-26 21:21:20 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:03 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:23:03 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:03 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:03 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:03 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:23:03 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:03 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:03 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:03 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 21:23:03 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:03 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:03 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:19 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 21:23:19 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:19 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:19 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:19 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:23:19 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:19 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:19 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:20 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:23:20 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:20 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:20 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:20 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 21:23:20 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:20 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:20 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:20 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 21:23:20 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:20 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:20 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:20 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:23:20 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:20 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:20 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:20 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:23:20 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:20 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:20 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:20 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:23:20 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:20 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:20 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:21 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:23:21 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:21 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:21 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:21 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:23:21 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:21 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:21 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:21 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:23:21 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:21 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:21 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:21 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 21:23:21 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:21 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:21 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:21 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 21:23:21 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:21 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:21 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:21 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:23:21 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:21 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:21 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:22 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:23:22 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:22 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:22 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:22 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:23:22 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:22 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:22 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:22 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 21:23:22 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:22 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:22 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:22 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 21:23:22 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:22 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:22 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:22 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:23:22 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:22 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:22 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:22 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 21:23:22 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:22 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:22 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:23 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:23:23 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:23 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:23 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:23 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 21:23:23 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:23 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:23 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:23 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 21:23:23 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:23 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:23 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:23 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:23:23 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:23 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:23 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:23 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:23:23 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:23 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:23 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:23 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:23:23 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:23 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:23 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:24 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:23:24 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:24 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:24 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:29 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 21:23:29 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:29 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:29 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:23:30 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:23:30 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:23:30 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BF306378B0>
+2026-02-26 21:23:30 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:16 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:24:16 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:16 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:16 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:16 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:24:16 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:16 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:16 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:16 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:24:16 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:16 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:16 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:16 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 21:24:16 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:16 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:16 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:16 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:24:16 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:16 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:16 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:17 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:24:17 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:17 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:17 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:17 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:24:17 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:17 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:17 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:26 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:24:26 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:26 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:26 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:26 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:24:26 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:26 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:26 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:26 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:24:26 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:26 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:26 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:26 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:24:26 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:26 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:26 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:26 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:24:26 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:26 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:26 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:24:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:24:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 21:24:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:24:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:24:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:24:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:24:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000019905A2F820>
+2026-02-26 21:24:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:41:06 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 21:41:06 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:41:06 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001648EB0C820>
+2026-02-26 21:41:06 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:41:06 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 21:41:06 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:41:06 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001648EB0C820>
+2026-02-26 21:41:06 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:41:06 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:41:06 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:41:06 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001648EB0C820>
+2026-02-26 21:41:06 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:41:06 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 21:41:06 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:41:06 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001648EB0C820>
+2026-02-26 21:41:06 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:41:06 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:41:06 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:41:06 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001648EB0C820>
+2026-02-26 21:41:06 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:52:47 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:52:47 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:52:47 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001F590F81820>
+2026-02-26 21:52:47 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:52:47 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:52:47 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:52:47 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001F590F81820>
+2026-02-26 21:52:47 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:52:47 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 21:52:47 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:52:47 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001F590F81820>
+2026-02-26 21:52:47 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:52:47 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:52:47 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:52:47 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001F590F81820>
+2026-02-26 21:52:47 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:52:48 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:52:48 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:52:48 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001F590F81820>
+2026-02-26 21:52:48 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:55:58 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:55:58 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:55:58 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:55:58 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:55:58 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 21:55:58 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:55:58 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:55:58 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:55:58 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:55:58 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:55:58 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:55:58 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:55:58 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 21:55:58 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:55:58 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:55:58 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:55:58 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 21:55:58 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:55:58 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:55:58 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:03 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:56:03 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:03 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:03 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:03 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 21:56:03 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:03 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:03 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:04 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:56:04 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:04 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:04 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:04 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:56:04 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:04 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:04 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:04 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:56:04 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:04 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:04 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:04 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 21:56:04 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:04 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:04 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:04 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 21:56:04 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:04 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:04 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:04 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 21:56:04 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:04 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:04 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:05 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 21:56:05 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:05 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:05 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:09 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 21:56:09 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:09 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:09 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:09 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:56:09 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:09 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:09 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:09 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:56:09 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:09 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:09 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:09 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 21:56:09 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:09 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:09 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:09 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 21:56:09 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:09 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:09 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:10 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:56:10 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:10 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:10 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:10 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:56:10 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:10 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:10 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:25 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 21:56:25 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:25 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:25 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:25 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 21:56:25 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:25 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:25 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:25 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 21:56:25 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:25 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:25 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 21:56:25 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 21:56:25 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 21:56:25 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000026D128A0820>
+2026-02-26 21:56:25 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:10:15 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 22:10:15 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:10:15 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002EA5D75B790>
+2026-02-26 22:10:15 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:10:15 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 22:10:15 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:10:15 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002EA5D75B790>
+2026-02-26 22:10:15 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:10:16 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 22:10:16 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:10:16 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002EA5D75B790>
+2026-02-26 22:10:16 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:10:16 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 22:10:16 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:10:16 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002EA5D75B790>
+2026-02-26 22:10:16 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:10:16 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 22:10:16 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:10:16 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002EA5D75B790>
+2026-02-26 22:10:16 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:10:16 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 22:10:16 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:10:16 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002EA5D75B790>
+2026-02-26 22:10:16 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:25 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 22:11:25 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:25 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:25 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:25 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 22:11:25 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:25 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:25 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:25 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 22:11:25 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:25 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:25 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:25 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 22:11:25 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:25 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:25 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:53 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 22:11:53 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:53 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:53 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:53 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 22:11:53 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:53 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:53 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:53 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 22:11:53 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:53 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:53 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:53 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 22:11:53 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:53 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:53 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:53 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 22:11:53 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:53 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:53 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:54 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 22:11:54 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:54 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:54 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:54 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 22:11:54 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:54 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:54 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:54 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 22:11:54 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:54 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:54 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:54 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 22:11:54 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:54 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:54 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:54 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 22:11:54 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:54 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:54 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:54 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 22:11:54 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:54 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:54 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:55 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 22:11:55 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:55 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:55 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:55 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 22:11:55 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:55 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:55 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:55 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 22:11:55 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:55 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:55 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:55 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 22:11:55 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:55 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:55 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:55 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 22:11:55 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:55 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:55 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:55 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 22:11:55 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:55 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:55 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:56 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 22:11:56 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:56 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:56 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:56 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 22:11:56 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:56 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:56 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:56 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 22:11:56 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:56 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:56 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:11:56 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 22:11:56 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:11:56 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:11:56 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:12:26 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 22:12:26 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:12:26 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:12:26 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:12:26 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 22:12:26 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:12:26 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:12:26 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:12:26 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 22:12:26 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:12:26 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:12:26 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:12:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 22:12:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:12:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:12:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:12:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 22:12:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:12:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:12:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:12:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 22:12:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:12:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:12:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:12:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 22:12:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:12:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:12:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:12:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 22:12:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:12:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001ADE6DAF820>
+2026-02-26 22:12:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:16:11 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 22:16:11 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:16:11 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BB43A7F820>
+2026-02-26 22:16:11 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:16:11 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 22:16:11 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:16:11 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BB43A7F820>
+2026-02-26 22:16:11 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:16:11 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 22:16:11 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:16:11 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BB43A7F820>
+2026-02-26 22:16:11 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:16:11 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 22:16:11 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:16:11 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BB43A7F820>
+2026-02-26 22:16:11 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:16:12 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 22:16:12 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:16:12 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BB43A7F820>
+2026-02-26 22:16:12 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:16:12 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 22:16:12 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:16:12 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BB43A7F820>
+2026-02-26 22:16:12 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:16:52 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 22:16:52 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:16:52 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BB43A7F820>
+2026-02-26 22:16:52 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:16:52 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 22:16:52 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:16:52 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BB43A7F820>
+2026-02-26 22:16:52 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:16:52 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 22:16:52 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:16:52 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BB43A7F820>
+2026-02-26 22:16:52 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:16:52 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 22:16:52 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:16:52 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BB43A7F820>
+2026-02-26 22:16:52 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:16:54 - logistics_viz - INFO - 准备发送订单到后端: {'type': '加急订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 22:16:54 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:16:54 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BB43A7F820>
+2026-02-26 22:16:54 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:16:54 - logistics_viz - INFO - 准备发送订单到后端: {'type': '加急订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 22:16:54 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:16:54 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BB43A7F820>
+2026-02-26 22:16:54 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:17:06 - logistics_viz - INFO - 准备发送订单到后端: {'type': '加急订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 22:17:06 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:17:06 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001BB43A7F820>
+2026-02-26 22:17:06 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:37:08 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 22:37:08 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:37:08 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000191F041C820>
+2026-02-26 22:37:08 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:37:09 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 22:37:09 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:37:09 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000191F041C820>
+2026-02-26 22:37:09 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:37:09 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 22:37:09 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:37:09 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000191F041C820>
+2026-02-26 22:37:09 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:37:09 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 22:37:09 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:37:09 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000191F041C820>
+2026-02-26 22:37:09 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:37:46 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 22:37:46 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:37:46 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002925352F820>
+2026-02-26 22:37:46 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:37:46 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 22:37:46 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:37:46 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002925352F820>
+2026-02-26 22:37:46 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:37:46 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 22:37:46 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:37:46 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002925352F820>
+2026-02-26 22:37:46 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:38:47 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 22:38:47 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:38:47 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002925352F820>
+2026-02-26 22:38:47 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:38:48 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 22:38:48 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:38:48 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002925352F820>
+2026-02-26 22:38:48 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:38:48 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 22:38:48 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:38:48 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002925352F820>
+2026-02-26 22:38:48 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:38:48 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 22:38:48 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:38:48 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002925352F820>
+2026-02-26 22:38:48 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:38:48 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 22:38:48 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:38:48 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002925352F820>
+2026-02-26 22:38:48 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:46:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 22:46:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:46:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021E7767F820>
+2026-02-26 22:46:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:46:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 22:46:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:46:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021E7767F820>
+2026-02-26 22:46:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:46:27 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 22:46:27 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:46:27 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021E7767F820>
+2026-02-26 22:46:27 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:46:28 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 22:46:28 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:46:28 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021E7767F820>
+2026-02-26 22:46:28 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:46:28 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 22:46:28 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:46:28 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000021E7767F820>
+2026-02-26 22:46:28 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:58:22 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 22:58:22 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:58:22 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000015CD9B4E820>
+2026-02-26 22:58:22 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:58:23 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 22:58:23 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:58:23 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000015CD9B4E820>
+2026-02-26 22:58:23 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:58:23 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 22:58:23 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:58:23 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000015CD9B4E820>
+2026-02-26 22:58:23 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:58:23 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 22:58:23 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:58:23 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000015CD9B4E820>
+2026-02-26 22:58:23 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:58:23 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 22:58:23 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:58:23 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000015CD9B4E820>
+2026-02-26 22:58:23 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:58:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 22:58:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:58:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000015CD9B4E820>
+2026-02-26 22:58:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:58:33 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 22:58:33 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:58:33 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000015CD9B4E820>
+2026-02-26 22:58:33 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:58:33 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 22:58:33 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:58:33 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000015CD9B4E820>
+2026-02-26 22:58:33 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:58:33 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 22:58:33 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:58:33 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000015CD9B4E820>
+2026-02-26 22:58:33 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:58:33 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 22:58:33 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:58:33 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000015CD9B4E820>
+2026-02-26 22:58:33 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 22:58:33 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 22:58:33 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 22:58:33 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000015CD9B4E820>
+2026-02-26 22:58:33 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:02:56 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 23:02:56 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:02:56 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000242CC68C820>
+2026-02-26 23:02:56 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:02:56 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 23:02:56 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:02:56 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000242CC68C820>
+2026-02-26 23:02:56 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:02:56 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 23:02:56 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:02:56 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000242CC68C820>
+2026-02-26 23:02:56 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:02:56 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 23:02:56 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:02:56 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000242CC68C820>
+2026-02-26 23:02:56 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:02:56 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-26 23:02:56 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:02:56 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000242CC68C820>
+2026-02-26 23:02:56 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:02:57 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 23:02:57 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:02:57 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000242CC68C820>
+2026-02-26 23:02:57 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:02:57 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 23:02:57 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:02:57 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000242CC68C820>
+2026-02-26 23:02:57 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:18 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 23:03:18 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:18 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:18 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:18 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 23:03:18 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:18 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:18 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:19 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 23:03:19 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:19 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:19 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:19 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 23:03:19 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:19 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:19 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:19 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-26 23:03:19 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:19 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:19 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:31 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-26 23:03:31 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:31 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:31 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:31 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-26 23:03:31 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:31 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:31 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 23:03:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-26 23:03:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 23:03:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:52 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-26 23:03:52 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:52 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:52 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:52 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-26 23:03:52 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:52 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:52 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:52 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-26 23:03:52 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:52 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:52 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-26 23:03:52 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-26 23:03:52 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-26 23:03:52 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002BB68A7E820>
+2026-02-26 23:03:52 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-27 16:30:31 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-27 16:30:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-27 16:30:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000016BB9579790>
+2026-02-27 16:30:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-27 16:30:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-27 16:30:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-27 16:30:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000016BB9579790>
+2026-02-27 16:30:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-27 16:30:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-27 16:30:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-27 16:30:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000016BB9579790>
+2026-02-27 16:30:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-27 16:30:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-27 16:30:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-27 16:30:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000016BB9579790>
+2026-02-27 16:30:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-27 16:30:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-27 16:30:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-27 16:30:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000016BB9579790>
+2026-02-27 16:30:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-27 16:30:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-27 16:30:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-27 16:30:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000016BB9579790>
+2026-02-27 16:30:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-27 16:30:56 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-27 16:30:56 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-27 16:30:56 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000016BB9579790>
+2026-02-27 16:30:56 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-27 16:30:57 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-27 16:30:57 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-27 16:30:57 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000016BB9579790>
+2026-02-27 16:30:57 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-27 16:30:57 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-27 16:30:57 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-27 16:30:57 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000016BB9579790>
+2026-02-27 16:30:57 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-27 16:31:13 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-27 16:31:13 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-27 16:31:13 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000016BB9579790>
+2026-02-27 16:31:13 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-27 16:31:14 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-27 16:31:14 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-27 16:31:14 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000016BB9579790>
+2026-02-27 16:31:14 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-27 16:31:14 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-27 16:31:14 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-27 16:31:14 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000016BB9579790>
+2026-02-27 16:31:14 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:05:11 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-28 18:05:11 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:05:11 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000222A706E8B0>
+2026-02-28 18:05:11 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:05:11 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-02-28 18:05:11 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:05:11 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000222A706E8B0>
+2026-02-28 18:05:11 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:05:11 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-28 18:05:11 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:05:11 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000222A706E8B0>
+2026-02-28 18:05:11 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:05:11 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-28 18:05:11 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:05:11 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000222A706E8B0>
+2026-02-28 18:05:11 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:05:11 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-28 18:05:11 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:05:11 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000222A706E8B0>
+2026-02-28 18:05:11 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:05:28 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-28 18:05:28 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:05:28 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000222A706E8B0>
+2026-02-28 18:05:28 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:05:29 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-28 18:05:29 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:05:29 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000222A706E8B0>
+2026-02-28 18:05:29 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:05:29 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-28 18:05:29 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:05:29 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000222A706E8B0>
+2026-02-28 18:05:29 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:05:29 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-28 18:05:29 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:05:29 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000222A706E8B0>
+2026-02-28 18:05:29 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:05:29 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-28 18:05:29 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:05:29 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000222A706E8B0>
+2026-02-28 18:05:29 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:05:29 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-28 18:05:29 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:05:29 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000222A706E8B0>
+2026-02-28 18:05:29 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:05:29 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-02-28 18:05:29 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:05:29 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000222A706E8B0>
+2026-02-28 18:05:29 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:05:29 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-28 18:05:29 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:05:29 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x00000222A706E8B0>
+2026-02-28 18:05:29 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:45:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-02-28 18:45:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:45:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002AB7AFC7940>
+2026-02-28 18:45:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:45:33 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-28 18:45:33 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:45:33 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002AB7AFC7940>
+2026-02-28 18:45:33 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:45:33 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-28 18:45:33 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:45:33 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002AB7AFC7940>
+2026-02-28 18:45:33 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:45:33 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-28 18:45:33 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:45:33 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002AB7AFC7940>
+2026-02-28 18:45:33 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:46:14 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-02-28 18:46:14 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:46:14 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002AB7AFC7940>
+2026-02-28 18:46:14 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:46:14 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-28 18:46:14 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:46:14 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002AB7AFC7940>
+2026-02-28 18:46:14 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:46:24 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-28 18:46:24 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:46:24 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002AB7AFC7940>
+2026-02-28 18:46:24 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:46:24 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-02-28 18:46:24 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:46:24 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002AB7AFC7940>
+2026-02-28 18:46:24 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:46:24 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-28 18:46:24 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:46:24 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002AB7AFC7940>
+2026-02-28 18:46:24 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:46:34 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-02-28 18:46:34 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:46:34 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002AB7AFC7940>
+2026-02-28 18:46:34 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:46:34 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-02-28 18:46:34 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:46:34 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002AB7AFC7940>
+2026-02-28 18:46:34 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:46:35 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-02-28 18:46:35 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:46:35 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002AB7AFC7940>
+2026-02-28 18:46:35 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-02-28 18:46:35 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-02-28 18:46:35 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-02-28 18:46:35 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002AB7AFC7940>
+2026-02-28 18:46:35 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 19:15:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-03-01 19:15:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 19:15:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D24ED0D310>
+2026-03-01 19:15:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 19:15:32 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-03-01 19:15:32 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 19:15:32 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D24ED0D310>
+2026-03-01 19:15:32 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 19:15:33 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-03-01 19:15:33 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 19:15:33 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D24ED0D310>
+2026-03-01 19:15:33 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 19:15:33 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-03-01 19:15:33 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 19:15:33 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D24ED0D310>
+2026-03-01 19:15:33 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 19:15:33 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-03-01 19:15:33 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 19:15:33 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D24ED0D310>
+2026-03-01 19:15:33 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 19:16:00 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 7, 'origin': 'N0', 'destination': 'N2'}
+2026-03-01 19:16:00 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 19:16:00 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D24ED0D310>
+2026-03-01 19:16:00 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 19:16:00 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 7, 'origin': 'N2', 'destination': 'N0'}
+2026-03-01 19:16:00 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 19:16:00 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D24ED0D310>
+2026-03-01 19:16:00 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 19:16:02 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 11, 'origin': 'N2', 'destination': 'N2'}
+2026-03-01 19:16:02 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 19:16:02 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D24ED0D310>
+2026-03-01 19:16:02 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 19:16:03 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 3, 'quantity': 11, 'origin': 'N1', 'destination': 'N0'}
+2026-03-01 19:16:03 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 19:16:03 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D24ED0D310>
+2026-03-01 19:16:03 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 19:16:04 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 3, 'quantity': 11, 'origin': 'N0', 'destination': 'N0'}
+2026-03-01 19:16:04 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 19:16:04 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D24ED0D310>
+2026-03-01 19:16:04 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:10:35 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-03-01 23:10:35 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:10:35 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D9AD827940>
+2026-03-01 23:10:35 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:10:35 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-03-01 23:10:35 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:10:35 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D9AD827940>
+2026-03-01 23:10:35 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:10:35 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-03-01 23:10:35 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:10:35 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D9AD827940>
+2026-03-01 23:10:35 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:10:35 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-03-01 23:10:35 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:10:35 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D9AD827940>
+2026-03-01 23:10:35 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:10:35 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-03-01 23:10:35 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:10:35 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001D9AD827940>
+2026-03-01 23:10:35 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:37:58 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-03-01 23:37:58 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:37:58 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:37:58 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:37:58 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-03-01 23:37:58 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:37:58 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:37:58 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:37:58 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-03-01 23:37:58 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:37:58 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:37:58 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:37:58 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-03-01 23:37:58 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:37:58 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:37:58 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:37:58 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N0'}
+2026-03-01 23:37:58 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:37:58 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:37:58 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:37:58 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-03-01 23:37:58 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:37:58 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:37:58 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:38:40 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-03-01 23:38:40 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:38:40 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:38:40 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:38:40 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-03-01 23:38:40 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:38:40 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:38:40 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:38:40 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N2'}
+2026-03-01 23:38:40 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:38:40 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:38:40 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:38:40 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-03-01 23:38:40 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:38:40 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:38:40 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:38:40 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-03-01 23:38:40 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:38:40 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:38:40 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:38:41 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-03-01 23:38:41 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:38:41 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:38:41 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:38:41 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-03-01 23:38:41 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:38:41 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:38:41 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:38:41 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-03-01 23:38:41 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:38:41 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:38:41 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:38:41 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-03-01 23:38:41 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:38:41 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:38:41 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:38:41 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-03-01 23:38:41 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:38:41 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000002DC4A8F7940>
+2026-03-01 23:38:41 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:52:19 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-03-01 23:52:19 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:52:19 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001F796467940>
+2026-03-01 23:52:19 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:52:19 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-03-01 23:52:19 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:52:19 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001F796467940>
+2026-03-01 23:52:19 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:52:19 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N0'}
+2026-03-01 23:52:19 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:52:19 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001F796467940>
+2026-03-01 23:52:19 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:52:20 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N1'}
+2026-03-01 23:52:20 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:52:20 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001F796467940>
+2026-03-01 23:52:20 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:52:20 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-03-01 23:52:20 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:52:20 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001F796467940>
+2026-03-01 23:52:20 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:52:20 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-03-01 23:52:20 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:52:20 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001F796467940>
+2026-03-01 23:52:20 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-01 23:52:20 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-03-01 23:52:20 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-01 23:52:20 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001F796467940>
+2026-03-01 23:52:20 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-02 11:30:40 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-03-02 11:30:40 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-02 11:30:40 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001261374BA60>
+2026-03-02 11:30:40 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-02 11:30:40 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N1'}
+2026-03-02 11:30:40 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-02 11:30:40 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001261374BA60>
+2026-03-02 11:30:40 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-02 11:30:41 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-03-02 11:30:41 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-02 11:30:41 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001261374BA60>
+2026-03-02 11:30:41 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-02 11:30:41 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-03-02 11:30:41 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-02 11:30:41 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001261374BA60>
+2026-03-02 11:30:41 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env

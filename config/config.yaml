@@ -1,0 +1,51 @@
+# 多智能体协作任务调度系统配置
+
+# 服务器配置
+num_servers: 5
+server_cpu_capacity: 100.0
+server_memory_capacity: 100.0
+server_storage_capacity: 500.0
+task_queue_limit: 50
+
+# 训练配置
+training_episodes: 600
+max_steps_per_episode: 200
+
+# 算法配置
+algorithm: mappo  # 可选: maddpg, mappo
+
+# MADDPG配置
+maddpg:
+  learning_rate: 0.001
+  gamma: 0.95
+  tau: 0.01
+  actor_lr: 1e-4
+  critic_lr: 1e-3
+  epsilon: 1.0
+  epsilon_decay: 0.995
+  epsilon_min: 0.01
+
+# MAPPO配置
+mappo:
+  actor_lr: 3e-4
+  critic_lr: 1e-3
+  gamma: 0.99
+  gae_lambda: 0.95
+  clip_epsilon: 0.2
+  entropy_coef: 0.01
+  value_coef: 0.5
+  ppo_epochs: 10
+  mini_batch_size: 64
+
+# 任务配置
+task_generation_rate: 10
+task_types: ['compute', 'storage', 'network']
+
+# 通信配置
+communication_range: 100
+message_delay_mean: 0.01
+message_delay_std: 0.005
+
+# 环境配置
+episode_timeout: 200
+reward_normalization: true

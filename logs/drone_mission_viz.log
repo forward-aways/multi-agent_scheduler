@@ -1,0 +1,135 @@
+2026-02-24 23:41:22 - drone_mission_viz - INFO - 开始任务
+2026-02-24 23:41:47 - drone_mission_viz - INFO - 任务类型切换为: 队形任务
+2026-02-24 23:41:49 - drone_mission_viz - INFO - 队形类型切换为: V形
+2026-02-24 23:41:52 - drone_mission_viz - INFO - 开始任务
+2026-02-24 23:42:06 - drone_mission_viz - INFO - 重置任务
+2026-02-24 23:42:07 - drone_mission_viz - INFO - 重置任务
+2026-02-24 23:42:11 - drone_mission_viz - INFO - 队形类型切换为: 一字形
+2026-02-24 23:42:12 - drone_mission_viz - INFO - 开始任务
+2026-02-25 00:07:25 - drone_mission_viz - INFO - 开始任务
+2026-02-25 00:20:08 - drone_mission_viz - INFO - 开始任务
+2026-02-25 09:20:04 - drone_mission_viz - INFO - 开始任务
+2026-02-25 09:34:14 - drone_mission_viz - INFO - 开始任务
+2026-02-25 09:34:29 - drone_mission_viz - INFO - 重置任务
+2026-02-25 09:34:31 - drone_mission_viz - INFO - 开始任务
+2026-02-25 10:16:34 - drone_mission_viz - INFO - 开始任务
+2026-02-25 10:17:00 - drone_mission_viz - INFO - 开始任务
+2026-02-25 11:11:43 - drone_mission_viz - INFO - 开始任务
+2026-02-25 11:16:21 - drone_mission_viz - INFO - 开始任务
+2026-02-25 11:24:15 - drone_mission_viz - INFO - 开始任务
+2026-02-25 12:28:30 - drone_mission_viz - INFO - 开始任务
+2026-02-25 12:30:30 - drone_mission_viz - INFO - 开始任务
+2026-02-25 14:55:18 - drone_mission_viz - INFO - 开始任务
+2026-02-25 14:55:36 - drone_mission_viz - INFO - 重置任务
+2026-02-25 14:55:40 - drone_mission_viz - INFO - 任务类型切换为: 队形任务
+2026-02-25 14:55:41 - drone_mission_viz - INFO - 队形类型切换为: 一字形
+2026-02-25 14:55:45 - drone_mission_viz - INFO - 开始任务
+2026-02-25 14:56:26 - drone_mission_viz - INFO - 重置任务
+2026-02-25 14:56:28 - drone_mission_viz - INFO - 队形类型切换为: V形
+2026-02-25 14:56:30 - drone_mission_viz - INFO - 开始任务
+2026-02-25 14:56:43 - drone_mission_viz - INFO - 重置任务
+2026-02-25 14:56:44 - drone_mission_viz - INFO - 队形类型切换为: 一字形
+2026-02-25 14:56:45 - drone_mission_viz - INFO - 开始任务
+2026-02-25 16:06:45 - drone_mission_viz - INFO - 任务类型切换为: 队形任务
+2026-02-25 16:06:48 - drone_mission_viz - INFO - 队形类型切换为: 一字形
+2026-02-25 16:06:51 - drone_mission_viz - INFO - 开始任务
+2026-02-25 16:07:28 - drone_mission_viz - INFO - 重置任务
+2026-02-25 16:07:37 - drone_mission_viz - INFO - 队形类型切换为: V形
+2026-02-25 16:07:39 - drone_mission_viz - INFO - 开始任务
+2026-02-25 16:08:02 - drone_mission_viz - INFO - 重置任务
+2026-02-25 16:08:04 - drone_mission_viz - INFO - 队形类型切换为: 三角形
+2026-02-25 16:08:05 - drone_mission_viz - INFO - 开始任务
+2026-02-25 16:08:21 - drone_mission_viz - INFO - 重置任务
+2026-02-25 16:08:23 - drone_mission_viz - INFO - 任务类型切换为: 巡检任务
+2026-02-25 16:08:26 - drone_mission_viz - INFO - 开始任务
+2026-02-25 16:12:51 - drone_mission_viz - INFO - 任务类型切换为: 队形任务
+2026-02-25 16:12:53 - drone_mission_viz - INFO - 任务类型切换为: 巡检任务
+2026-02-25 16:12:58 - drone_mission_viz - INFO - 任务类型切换为: 队形任务
+2026-02-25 16:13:02 - drone_mission_viz - INFO - 队形类型切换为: 一字形
+2026-02-25 16:13:03 - drone_mission_viz - INFO - 开始任务
+2026-02-25 16:46:41 - drone_mission_viz - INFO - 重置任务
+2026-02-25 16:46:41 - drone_mission_viz - INFO - 重置任务
+2026-02-25 18:08:07 - drone_mission_viz - INFO - 任务类型切换为: 队形任务
+2026-02-25 18:08:16 - drone_mission_viz - INFO - 开始任务
+2026-02-25 18:09:35 - drone_mission_viz - INFO - 重置任务
+2026-02-25 18:09:36 - drone_mission_viz - INFO - 重置任务
+2026-02-25 18:09:36 - drone_mission_viz - INFO - 重置任务
+2026-02-25 18:09:36 - drone_mission_viz - INFO - 重置任务
+2026-02-25 18:09:36 - drone_mission_viz - INFO - 重置任务
+2026-02-25 18:13:13 - drone_mission_viz - INFO - 开始任务
+2026-02-25 18:13:51 - drone_mission_viz - INFO - 重置任务
+2026-02-25 18:13:53 - drone_mission_viz - INFO - 任务类型切换为: 队形任务
+2026-02-25 18:13:58 - drone_mission_viz - INFO - 队形类型切换为: 一字形
+2026-02-25 18:13:59 - drone_mission_viz - INFO - 开始任务
+2026-02-25 18:14:01 - drone_mission_viz - INFO - 开始任务
+2026-02-25 19:28:58 - drone_mission_viz - INFO - 任务类型切换为: 队形任务
+2026-02-25 19:29:12 - drone_mission_viz - INFO - 开始任务
+2026-02-25 19:31:40 - drone_mission_viz - INFO - 任务类型切换为: 队形任务
+2026-02-25 19:31:46 - drone_mission_viz - INFO - 开始任务
+2026-02-25 19:34:36 - drone_mission_viz - INFO - 任务类型切换为: 队形任务
+2026-02-25 19:34:52 - drone_mission_viz - INFO - 重置任务
+2026-02-25 19:35:00 - drone_mission_viz - INFO - 开始任务
+2026-02-25 19:36:07 - drone_mission_viz - INFO - 任务类型切换为: 队形任务
+2026-02-25 19:36:08 - drone_mission_viz - INFO - 开始任务
+2026-02-25 19:36:50 - drone_mission_viz - INFO - 重置任务
+2026-02-25 19:47:12 - drone_mission_viz - INFO - 开始任务
+2026-02-25 20:10:05 - drone_mission_viz - INFO - 开始任务
+2026-02-25 20:17:19 - drone_mission_viz - INFO - 开始任务
+2026-02-25 20:32:46 - drone_mission_viz - INFO - 开始任务
+2026-02-25 20:35:23 - drone_mission_viz - INFO - 开始任务
+2026-02-25 20:59:00 - drone_mission_viz - INFO - 开始任务
+2026-02-25 21:11:02 - drone_mission_viz - INFO - 开始任务
+2026-02-25 21:14:03 - drone_mission_viz - INFO - 开始任务
+2026-02-25 21:15:00 - drone_mission_viz - INFO - 开始任务
+2026-02-25 21:20:12 - drone_mission_viz - INFO - 开始任务
+2026-02-25 21:22:51 - drone_mission_viz - INFO - 开始任务
+2026-02-25 21:32:29 - drone_mission_viz - INFO - 开始任务
+2026-02-25 21:37:09 - drone_mission_viz - INFO - 开始任务
+2026-02-25 21:41:58 - drone_mission_viz - INFO - 开始任务
+2026-02-25 21:46:11 - drone_mission_viz - INFO - 开始任务
+2026-02-25 22:20:18 - drone_mission_viz - INFO - 开始任务
+2026-02-25 22:47:25 - drone_mission_viz - INFO - 开始任务
+2026-02-25 23:10:34 - drone_mission_viz - INFO - 开始任务
+2026-02-25 23:31:27 - drone_mission_viz - INFO - 开始任务
+2026-02-26 00:01:06 - drone_mission_viz - INFO - 开始任务
+2026-02-26 00:18:15 - drone_mission_viz - INFO - 开始任务
+2026-02-26 00:21:37 - drone_mission_viz - INFO - 开始任务
+2026-02-26 00:21:51 - drone_mission_viz - INFO - 重置任务
+2026-02-26 00:21:53 - drone_mission_viz - INFO - 开始任务
+2026-02-26 00:35:20 - drone_mission_viz - INFO - 开始任务
+2026-02-26 00:47:00 - drone_mission_viz - INFO - 开始任务
+2026-02-26 09:35:00 - drone_mission_viz - INFO - 开始任务
+2026-02-26 09:54:30 - drone_mission_viz - INFO - 开始任务
+2026-02-26 15:42:16 - drone_mission_viz - INFO - 开始任务
+2026-02-26 15:42:47 - drone_mission_viz - INFO - 重置任务
+2026-02-26 16:51:27 - drone_mission_viz - INFO - 任务类型切换为: 协同包围任务
+2026-02-26 16:51:28 - drone_mission_viz - INFO - 开始任务
+2026-02-28 13:10:08 - drone_mission_viz - INFO - 任务类型切换为: 协同包围任务
+2026-02-28 13:24:17 - drone_mission_viz - INFO - 任务类型切换为: 协同包围任务
+2026-03-01 14:33:01 - drone_mission_viz - INFO - 任务类型切换为: 协同包围任务
+2026-03-01 14:33:03 - drone_mission_viz - INFO - 开始任务
+2026-03-01 14:34:03 - drone_mission_viz - INFO - 任务类型切换为: 队形任务
+2026-03-01 14:51:44 - drone_mission_viz - INFO - 开始任务
+2026-03-01 19:12:57 - drone_mission_viz - INFO - 开始任务
+2026-03-01 19:14:51 - drone_mission_viz - INFO - 任务类型切换为: 协同包围任务
+2026-03-01 19:14:55 - drone_mission_viz - INFO - 开始任务
+2026-03-01 19:16:27 - drone_mission_viz - INFO - 任务类型切换为: 队形任务
+2026-03-01 19:16:30 - drone_mission_viz - INFO - 开始任务
+2026-03-01 20:02:21 - drone_mission_viz - INFO - 开始任务
+2026-03-01 20:04:31 - drone_mission_viz - INFO - 开始任务
+2026-03-01 21:33:34 - drone_mission_viz - INFO - 队形类型切换为: V形
+2026-03-01 21:33:35 - drone_mission_viz - INFO - 开始任务
+2026-03-01 21:35:45 - drone_mission_viz - INFO - 队形类型切换为: 一字形
+2026-03-01 21:35:53 - drone_mission_viz - INFO - 重置任务
+2026-03-01 21:35:56 - drone_mission_viz - INFO - 开始任务
+2026-03-01 21:36:40 - drone_mission_viz - INFO - 队形类型切换为: V形
+2026-03-01 21:36:40 - drone_mission_viz - INFO - 开始任务
+2026-03-01 23:08:59 - drone_mission_viz - INFO - 开始任务
+2026-03-01 23:09:45 - drone_mission_viz - INFO - 重置任务
+2026-03-01 23:09:45 - drone_mission_viz - INFO - 重置任务
+2026-03-01 23:09:47 - drone_mission_viz - INFO - 队形类型切换为: 一字形
+2026-03-01 23:09:48 - drone_mission_viz - INFO - 开始任务
+2026-03-01 23:10:15 - drone_mission_viz - INFO - 重置任务
+2026-03-01 23:10:17 - drone_mission_viz - INFO - 队形类型切换为: V形
+2026-03-01 23:10:17 - drone_mission_viz - INFO - 开始任务
+2026-03-01 23:10:33 - drone_mission_viz - INFO - 重置任务
