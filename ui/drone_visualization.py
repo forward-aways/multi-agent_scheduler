@@ -33,6 +33,10 @@ class ZoomableGraphicsView(QGraphicsView):
         self.setDragMode(QGraphicsView.DragMode.ScrollHandDrag)
         self.setTransformationAnchor(QGraphicsView.ViewportAnchor.AnchorUnderMouse)
         self.setResizeAnchor(QGraphicsView.ViewportAnchor.AnchorUnderMouse)
+        # 设置视口更新模式，避免拖动时产生残影
+        self.setViewportUpdateMode(QGraphicsView.ViewportUpdateMode.FullViewportUpdate)
+        # 设置背景颜色
+        self.setBackgroundBrush(QBrush(QColor(240, 240, 240)))
         self.scale_factor = 1.15
         
     def wheelEvent(self, event):

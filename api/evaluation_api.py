@@ -194,7 +194,8 @@ class EvaluationAPI:
                     'duration': self._calculate_duration(
                         evaluation_data['start_time'],
                         evaluation_data['end_time']
-                    )
+                    ),
+                    'raw_data': episode_data_list  # 添加回合原始数据
                 },
                 'export': export_result,
                 'timestamp': datetime.now().isoformat()

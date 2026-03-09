@@ -234,7 +234,10 @@ class SchedulerEngine:
                 'episode': self.episode_count,
                 'steps': 0,
                 'total_reward': 0,
-                'rewards': []
+                'rewards': [],
+                'delays': [],  # 延迟数据
+                'agent_utilization': {},  # 智能体利用率
+                'tasks': {'total': 0, 'completed': 0, 'failed': 0}  # 任务统计
             }
             
             # 触发回合开始回调
@@ -297,14 +300,48 @@ class SchedulerEngine:
                 
                 observation = step_result['observation']
                 reward = step_result['reward']
-                done = step_result['done']
-                truncated = step_result['truncated']
+                done_dict = step_result['done']
+                truncated_dict = step_result['truncated']
                 info = step_result['info']
+                
+                # 处理多智能体环境的done和truncated（字典格式）
+                # 如果所有智能体都完成，则认为回合结束
+                if isinstance(done_dict, dict):
+                    done = all(done_dict.values())
+                else:
+                    done = done_dict
+                    
+                if isinstance(truncated_dict, dict):
+                    truncated = all(truncated_dict.values())
+                else:
+                    truncated = truncated_dict
                 
                 # 记录数据
                 episode_data['steps'] += 1
-                episode_data['total_reward'] += sum(reward.values())
+                if isinstance(reward, dict):
+                    episode_data['total_reward'] += sum(reward.values())
+                else:
+                    episode_data['total_reward'] += reward
                 episode_data['rewards'].append(reward)
+                
+                # 从info中提取额外数据（如果环境提供）
+                # info 是多智能体字典格式: {'server_0': {...}, 'server_1': {...}}
+                if isinstance(info, dict):
+                    # 遍历每个智能体的info
+                    for agent_id, agent_info in info.items():
+                        if isinstance(agent_info, dict):
+                            # 提取延迟数据
+                            if 'delays' in agent_info:
+                                episode_data['delays'].extend(agent_info['delays'])
+                            # 提取智能体利用率
+                            if 'agent_utilization' in agent_info:
+                                episode_data['agent_utilization'].update(agent_info['agent_utilization'])
+                            # 提取任务统计
+                            if 'tasks' in agent_info:
+                                task_info = agent_info['tasks']
+                                episode_data['tasks']['total'] += task_info.get('total', 0)
+                                episode_data['tasks']['completed'] += task_info.get('completed', 0)
+                                episode_data['tasks']['failed'] += task_info.get('failed', 0)
                 
                 # 触发步进回调
                 self._trigger_callbacks('on_step', {
@@ -312,7 +349,8 @@ class SchedulerEngine:
                     'step': step,
                     'observation': observation,
                     'actions': actions,
-                    'reward': reward
+                    'reward': reward,
+                    'info': info
                 })
                 
                 step += 1

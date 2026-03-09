@@ -88,11 +88,9 @@ class ServerEnvironmentPlugin(EnvironmentPlugin):
         if self.env is None:
             return None, {}, True, False, {}
         
-        # 转换动作格式
-        action_array = np.array([actions.get(f'server_{i}', 0) 
-                                for i in range(self.env.num_servers)])
-        
-        return self.env.step(action_array)
+        # 直接传递动作字典给环境
+        # 环境期望格式: {'server_0': action_0, 'server_1': action_1, ...}
+        return self.env.step(actions)
     
     def shutdown(self) -> bool:
         """关闭环境"""

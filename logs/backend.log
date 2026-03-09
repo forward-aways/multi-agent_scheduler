@@ -4247,3 +4247,127 @@ TypeError: object of type 'numpy.float64' has no len()
 2026-03-02 11:34:36 - backend - INFO - DEBUG: set_manual_auto_mode 被调用，设置模式为: manual (类型: <class 'str'>)
 2026-03-02 11:34:36 - backend - INFO - DEBUG: _current_manual_auto_mode 现在是: manual (类型: <class 'str'>)
 2026-03-02 11:34:36 - backend - INFO - 环境未初始化，模式将在环境初始化后设置为: manual
+2026-03-06 14:57:13 - backend - INFO - DEBUG: set_manual_auto_mode 被调用，设置模式为: manual (类型: <class 'str'>)
+2026-03-06 14:57:13 - backend - INFO - DEBUG: _current_manual_auto_mode 现在是: manual (类型: <class 'str'>)
+2026-03-06 14:57:13 - backend - INFO - 环境未初始化，模式将在环境初始化后设置为: manual
+2026-03-06 14:57:25 - backend - INFO - 切换到 drone 模式
+2026-03-06 14:57:25 - backend - INFO - 切换到 logistics 模式
+2026-03-09 09:05:43 - backend - INFO - DEBUG: set_manual_auto_mode 被调用，设置模式为: manual (类型: <class 'str'>)
+2026-03-09 09:05:43 - backend - INFO - DEBUG: _current_manual_auto_mode 现在是: manual (类型: <class 'str'>)
+2026-03-09 09:05:43 - backend - INFO - 环境未初始化，模式将在环境初始化后设置为: manual
+2026-03-09 09:10:21 - backend - INFO - DEBUG: set_manual_auto_mode 被调用，设置模式为: manual (类型: <class 'str'>)
+2026-03-09 09:10:21 - backend - INFO - DEBUG: _current_manual_auto_mode 现在是: manual (类型: <class 'str'>)
+2026-03-09 09:10:21 - backend - INFO - 环境未初始化，模式将在环境初始化后设置为: manual
+2026-03-09 09:17:16 - backend - INFO - DEBUG: set_manual_auto_mode 被调用，设置模式为: manual (类型: <class 'str'>)
+2026-03-09 09:17:16 - backend - INFO - DEBUG: _current_manual_auto_mode 现在是: manual (类型: <class 'str'>)
+2026-03-09 09:17:16 - backend - INFO - 环境未初始化，模式将在环境初始化后设置为: manual
+2026-03-09 09:20:00 - backend - INFO - DEBUG: set_manual_auto_mode 被调用，设置模式为: manual (类型: <class 'str'>)
+2026-03-09 09:20:00 - backend - INFO - DEBUG: _current_manual_auto_mode 现在是: manual (类型: <class 'str'>)
+2026-03-09 09:20:00 - backend - INFO - 环境未初始化，模式将在环境初始化后设置为: manual
+2026-03-09 09:20:18 - backend - INFO - DEBUG: set_manual_auto_mode 被调用，设置模式为: manual (类型: <class 'str'>)
+2026-03-09 09:20:18 - backend - INFO - DEBUG: _current_manual_auto_mode 现在是: manual (类型: <class 'str'>)
+2026-03-09 09:20:18 - backend - INFO - 环境未初始化，模式将在环境初始化后设置为: manual
+2026-03-09 09:24:55 - backend - INFO - DEBUG: set_manual_auto_mode 被调用，设置模式为: manual (类型: <class 'str'>)
+2026-03-09 09:24:55 - backend - INFO - DEBUG: _current_manual_auto_mode 现在是: manual (类型: <class 'str'>)
+2026-03-09 09:24:55 - backend - INFO - 环境未初始化，模式将在环境初始化后设置为: manual
+2026-03-09 09:30:30 - backend - INFO - DEBUG: set_manual_auto_mode 被调用，设置模式为: manual (类型: <class 'str'>)
+2026-03-09 09:30:30 - backend - INFO - DEBUG: _current_manual_auto_mode 现在是: manual (类型: <class 'str'>)
+2026-03-09 09:30:30 - backend - INFO - 环境未初始化，模式将在环境初始化后设置为: manual
+2026-03-09 09:34:57 - backend - INFO - DEBUG: set_manual_auto_mode 被调用，设置模式为: manual (类型: <class 'str'>)
+2026-03-09 09:34:57 - backend - INFO - DEBUG: _current_manual_auto_mode 现在是: manual (类型: <class 'str'>)
+2026-03-09 09:34:57 - backend - INFO - 环境未初始化，模式将在环境初始化后设置为: manual
+2026-03-09 09:35:01 - backend - INFO - add_task_to_env 被调用，当前模式: server, 参数: {'cpu_req': 20.0, 'memory_req': 15.0, 'priority': 5, 'type': '计算任务'}
+2026-03-09 09:35:01 - backend - INFO - add_task_to_env 被调用，当前模式: server, 参数: {'cpu_req': 20.0, 'memory_req': 15.0, 'priority': 5, 'type': '计算任务'}
+2026-03-09 09:35:02 - backend - INFO - add_task_to_env 被调用，当前模式: server, 参数: {'cpu_req': 20.0, 'memory_req': 15.0, 'priority': 5, 'type': '计算任务'}
+2026-03-09 09:35:02 - backend - INFO - add_task_to_env 被调用，当前模式: server, 参数: {'cpu_req': 20.0, 'memory_req': 15.0, 'priority': 5, 'type': '计算任务'}
+2026-03-09 09:35:02 - backend - INFO - add_task_to_env 被调用，当前模式: server, 参数: {'cpu_req': 20.0, 'memory_req': 15.0, 'priority': 5, 'type': '计算任务'}
+2026-03-09 09:35:02 - backend - INFO - add_task_to_env 被调用，当前模式: server, 参数: {'cpu_req': 20.0, 'memory_req': 15.0, 'priority': 5, 'type': '计算任务'}
+2026-03-09 09:35:04 - backend - INFO - 开始推理
+2026-03-09 09:35:04 - backend - INFO - 手动模式下找到任务，继续执行
+2026-03-09 09:35:07 - backend - INFO - 已加载MAPPO模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_server\mappo\server_0_agent.pth
+2026-03-09 09:35:07 - backend - INFO - 已加载MAPPO模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_server\mappo\server_1_agent.pth
+2026-03-09 09:35:07 - backend - INFO - 已加载MAPPO模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_server\mappo\server_2_agent.pth
+2026-03-09 09:35:07 - backend - INFO - 已加载MAPPO模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_server\mappo\server_3_agent.pth
+2026-03-09 09:35:07 - backend - INFO - 已加载MAPPO模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_server\mappo\server_4_agent.pth
+2026-03-09 09:35:07 - backend - INFO - 环境初始化后手动模式下找到任务，继续执行
+2026-03-09 09:35:08 - backend - INFO - 手动模式下没有任务，正常结束推理循环
+2026-03-09 09:35:08 - backend - INFO - 推理完成! 总奖励: 76.00
+2026-03-09 09:43:38 - backend - INFO - DEBUG: set_manual_auto_mode 被调用，设置模式为: manual (类型: <class 'str'>)
+2026-03-09 09:43:38 - backend - INFO - DEBUG: _current_manual_auto_mode 现在是: manual (类型: <class 'str'>)
+2026-03-09 09:43:38 - backend - INFO - 环境未初始化，模式将在环境初始化后设置为: manual
+2026-03-09 09:44:59 - backend - INFO - 切换到 logistics 模式
+2026-03-09 09:45:00 - backend - INFO - 切换到 server 模式
+2026-03-09 09:45:03 - backend - INFO - 切换到 logistics 模式
+2026-03-09 09:45:04 - backend - INFO - add_task_to_env 被调用，当前模式: logistics, 参数: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-03-09 09:45:04 - backend - INFO - 调用 _add_logistics_order 添加物流订单
+2026-03-09 09:45:04 - backend - INFO - _add_logistics_order 被调用，物流环境状态: False
+2026-03-09 09:45:04 - backend - INFO - 物流订单已暂存，等待环境初始化: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-03-09 09:45:04 - backend - INFO - add_task_to_env 被调用，当前模式: logistics, 参数: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-03-09 09:45:04 - backend - INFO - 调用 _add_logistics_order 添加物流订单
+2026-03-09 09:45:04 - backend - INFO - _add_logistics_order 被调用，物流环境状态: False
+2026-03-09 09:45:04 - backend - INFO - 物流订单已暂存，等待环境初始化: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-03-09 09:45:04 - backend - INFO - add_task_to_env 被调用，当前模式: logistics, 参数: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-03-09 09:45:04 - backend - INFO - 调用 _add_logistics_order 添加物流订单
+2026-03-09 09:45:04 - backend - INFO - _add_logistics_order 被调用，物流环境状态: False
+2026-03-09 09:45:04 - backend - INFO - 物流订单已暂存，等待环境初始化: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-03-09 09:45:05 - backend - INFO - add_task_to_env 被调用，当前模式: logistics, 参数: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-03-09 09:45:05 - backend - INFO - 调用 _add_logistics_order 添加物流订单
+2026-03-09 09:45:05 - backend - INFO - _add_logistics_order 被调用，物流环境状态: False
+2026-03-09 09:45:05 - backend - INFO - 物流订单已暂存，等待环境初始化: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-03-09 09:45:06 - backend - INFO - 开始推理
+2026-03-09 09:45:06 - backend - INFO - 手动模式下找到任务，继续执行
+2026-03-09 09:45:06 - backend - INFO - 物流模式推理开始...
+2026-03-09 09:45:06 - backend - INFO - 物流环境初始化，模式: 手动
+2026-03-09 09:45:06 - backend - INFO - 开始加载物流模型...
+2026-03-09 09:45:06 - backend - INFO - 模型目录: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best
+2026-03-09 09:45:06 - backend - INFO - 初始化LogisticsMAPPOTrainer...
+2026-03-09 09:45:07 - backend - INFO - LogisticsMAPPOTrainer初始化完成，智能体数量: 8
+2026-03-09 09:45:07 - backend - INFO - 尝试加载仓库模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\warehouse_0_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 已加载物流仓库模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\warehouse_0_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 尝试加载仓库模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\warehouse_1_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 已加载物流仓库模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\warehouse_1_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 尝试加载仓库模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\warehouse_2_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 已加载物流仓库模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\warehouse_2_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 尝试加载车辆模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\vehicle_0_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 已加载物流车辆模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\vehicle_0_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 尝试加载车辆模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\vehicle_1_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 已加载物流车辆模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\vehicle_1_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 尝试加载车辆模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\vehicle_2_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 已加载物流车辆模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\vehicle_2_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 尝试加载车辆模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\vehicle_3_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 已加载物流车辆模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\vehicle_3_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 尝试加载车辆模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\vehicle_4_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 已加载物流车辆模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_logistics\mappo\best\vehicle_4_agent.pth
+2026-03-09 09:45:07 - backend - INFO - 物流模型加载完成
+2026-03-09 09:45:07 - backend - INFO - _add_logistics_order 被调用，物流环境状态: True
+2026-03-09 09:45:07 - backend - INFO - 物流订单已添加: 位置=[7.44309014 7.12438812], 数量=10, 优先级=3
+2026-03-09 09:45:07 - backend - INFO - _add_logistics_order 被调用，物流环境状态: True
+2026-03-09 09:45:07 - backend - INFO - 物流订单已添加: 位置=[98.5696809 72.4850256], 数量=10, 优先级=3
+2026-03-09 09:45:07 - backend - INFO - _add_logistics_order 被调用，物流环境状态: True
+2026-03-09 09:45:07 - backend - INFO - 物流订单已添加: 位置=[29.46584117 83.42906639], 数量=10, 优先级=3
+2026-03-09 09:45:07 - backend - INFO - _add_logistics_order 被调用，物流环境状态: True
+2026-03-09 09:45:07 - backend - INFO - 物流订单已添加: 位置=[28.77386195 42.365609  ], 数量=10, 优先级=3
+2026-03-09 09:45:07 - backend - INFO - 环境初始化后手动模式下找到任务，继续执行
+2026-03-09 09:45:13 - backend - INFO - 切换到 drone 模式
+2026-03-09 09:45:14 - backend - INFO - 加载triangle队形任务模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_drone\mappo\formation\triangle
+2026-03-09 09:45:14 - backend - INFO - 已加载formation任务模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_drone\mappo\formation\triangle\drone_0_agent.pth
+2026-03-09 09:45:14 - backend - INFO - 已加载formation任务模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_drone\mappo\formation\triangle\drone_1_agent.pth
+2026-03-09 09:45:14 - backend - INFO - 已加载formation任务模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_drone\mappo\formation\triangle\drone_2_agent.pth
+2026-03-09 09:45:14 - backend - INFO - 无人机任务已启动
+2026-03-09 09:45:24 - backend - INFO - 物流推理完成! 总奖励: -40.00
+2026-03-09 09:45:24 - backend - INFO - 无人机任务已重置
+2026-03-09 09:45:24 - backend - INFO - 无人机任务完成! 总奖励: 619.67
+2026-03-09 09:45:27 - backend - INFO - 无人机队形类型切换为: line
+2026-03-09 09:45:27 - backend - INFO - 加载line队形任务模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_drone\mappo\formation\line
+2026-03-09 09:45:27 - backend - INFO - 已加载formation任务模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_drone\mappo\formation\line\drone_0_agent.pth
+2026-03-09 09:45:27 - backend - INFO - 已加载formation任务模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_drone\mappo\formation\line\drone_1_agent.pth
+2026-03-09 09:45:27 - backend - INFO - 已加载formation任务模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_drone\mappo\formation\line\drone_2_agent.pth
+2026-03-09 09:45:28 - backend - INFO - 无人机任务已启动
+2026-03-09 09:46:02 - backend - INFO - 无人机任务已重置
+2026-03-09 09:46:02 - backend - INFO - 无人机任务完成! 总奖励: 3158.91
+2026-03-09 09:46:03 - backend - INFO - 无人机任务类型切换为: encirclement
+2026-03-09 09:46:03 - backend - INFO - 加载协同包围任务模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_drone\mappo\encirclement
+2026-03-09 09:46:03 - backend - INFO - 已加载encirclement任务模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_drone\mappo\encirclement\drone_0_agent.pth
+2026-03-09 09:46:03 - backend - INFO - 已加载encirclement任务模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_drone\mappo\encirclement\drone_1_agent.pth
+2026-03-09 09:46:03 - backend - INFO - 已加载encirclement任务模型: d:\graduation_project\multi_agent_scheduler\models\multi_agent_drone\mappo\encirclement\drone_2_agent.pth
+2026-03-09 09:46:04 - backend - INFO - 无人机任务已启动

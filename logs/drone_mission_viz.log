@@ -133,3 +133,10 @@
 2026-03-01 23:10:17 - drone_mission_viz - INFO - 队形类型切换为: V形
 2026-03-01 23:10:17 - drone_mission_viz - INFO - 开始任务
 2026-03-01 23:10:33 - drone_mission_viz - INFO - 重置任务
+2026-03-09 09:45:14 - drone_mission_viz - INFO - 开始任务
+2026-03-09 09:45:24 - drone_mission_viz - INFO - 重置任务
+2026-03-09 09:45:27 - drone_mission_viz - INFO - 队形类型切换为: 一字形
+2026-03-09 09:45:28 - drone_mission_viz - INFO - 开始任务
+2026-03-09 09:46:02 - drone_mission_viz - INFO - 重置任务
+2026-03-09 09:46:03 - drone_mission_viz - INFO - 任务类型切换为: 协同包围任务
+2026-03-09 09:46:04 - drone_mission_viz - INFO - 开始任务

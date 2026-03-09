@@ -5,7 +5,10 @@ Multi-Agent Collaborative Task Scheduling System - UI Launcher
 
 import sys
 import os
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+# 添加项目根目录到路径
+project_root = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, project_root)
 
 import threading
 import time
@@ -16,6 +19,7 @@ from PyQt6.QtCore import QThread, pyqtSignal
 class APIServerThread(QThread):
     """API服务器线程"""
     server_started = pyqtSignal()
+    error_occurred = pyqtSignal(str)
     
     def __init__(self, port=5003):
         super().__init__()
@@ -25,6 +29,10 @@ class APIServerThread(QThread):
     def run(self):
         """在线程中运行API服务器"""
         try:
+            # 确保路径在线程中也可用
+            if project_root not in sys.path:
+                sys.path.insert(0, project_root)
+            
             from flask import Flask, jsonify, request, send_from_directory
             from api.scheduler_api import SchedulerAPI
             
@@ -76,7 +84,7 @@ class APIServerThread(QThread):
             # 初始化API
             print("[API] 正在初始化...")
             api.initialize()
-            print("[API] ✅ 初始化成功")
+            print("[API] 初始化成功")
             
             self.running = True
             self.server_started.emit()
@@ -85,8 +93,9 @@ class APIServerThread(QThread):
             app.run(host='0.0.0.0', port=self.port, debug=False, threaded=True, use_reloader=False)
             
         except Exception as e:
-            print(f"[API] 错误: {e}")
-            print("[API] 请确保已安装Flask: pip install flask")
+            error_msg = f"[API] 错误: {e}"
+            print(error_msg)
+            self.error_occurred.emit(error_msg)
 
 
 def main():
@@ -103,7 +112,7 @@ def main():
         
         # 等待API服务器启动
         time.sleep(2)
-        print("[API] ✅ API服务器已启动")
+        print("[API] API服务器已启动")
         print(f"[API] 网页控制台: http://127.0.0.1:5003/")
         
         # 创建Qt应用
@@ -115,7 +124,7 @@ def main():
         window = MainWindow()
         window.show()
         
-        print("[UI] ✅ UI界面已启动\n")
+        print("[UI] UI界面已启动\n")
         
         # 运行应用程序
         sys.exit(app.exec())

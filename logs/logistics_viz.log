@@ -1450,3 +1450,19 @@
 2026-03-02 11:30:41 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
 2026-03-02 11:30:41 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x000001261374BA60>
 2026-03-02 11:30:41 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-09 09:45:04 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N2'}
+2026-03-09 09:45:04 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-09 09:45:04 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000025ABAC2C040>
+2026-03-09 09:45:04 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-09 09:45:04 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N1', 'destination': 'N1'}
+2026-03-09 09:45:04 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-09 09:45:04 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000025ABAC2C040>
+2026-03-09 09:45:04 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-09 09:45:04 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N2', 'destination': 'N2'}
+2026-03-09 09:45:04 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-09 09:45:04 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000025ABAC2C040>
+2026-03-09 09:45:04 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env
+2026-03-09 09:45:05 - logistics_viz - INFO - 准备发送订单到后端: {'type': '普通订单', 'priority': 5, 'quantity': 10, 'origin': 'N0', 'destination': 'N0'}
+2026-03-09 09:45:05 - logistics_viz - INFO - hasattr(self, 'backend_controller'): True
+2026-03-09 09:45:05 - logistics_viz - INFO - self.backend_controller: <ui.backend_controller.BackendController object at 0x0000025ABAC2C040>
+2026-03-09 09:45:05 - logistics_viz - INFO - 调用 backend_controller.add_task_to_env

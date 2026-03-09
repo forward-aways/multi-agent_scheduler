@@ -142,7 +142,29 @@ class MultiAgentServerEnv(gym.Env):
         
         # 获取新观测
         observations = self._get_observations()
+        
+        # 计算服务器利用率
+        cpu_utils = [self.server_cpu_usage[i] / self.server_cpu_capacity for i in range(self.num_servers)]
+        mem_utils = [self.server_memory_usage[i] / self.server_memory_capacity for i in range(self.num_servers)]
+        
+        # 构建info信息（用于评估）
         infos = {f'server_{i}': {} for i in range(self.num_servers)}
+        
+        # 在第一个智能体的info中添加全局统计信息
+        # 任务总数 = 已完成 + 已丢弃（待处理的不算入总数，因为回合结束）
+        total_tasks = self.completed_tasks + self.dropped_tasks
+        infos['server_0'] = {
+            'tasks': {
+                'total': max(1, total_tasks),  # 避免除零
+                'completed': self.completed_tasks,
+                'failed': self.dropped_tasks,
+                'pending': len(self.pending_tasks)  # 待处理任务单独记录
+            },
+            'agent_utilization': {
+                f'server_{i}': (cpu_utils[i] + mem_utils[i]) / 2 
+                for i in range(self.num_servers)
+            }
+        }
         
         return observations, rewards, terminated, truncated, infos
     
